@@ -1,4 +1,4 @@
-import prot from '../src/function.js';
+import prot from '../src/function';
 
 function Character(name, type) {
   this.name = name;
